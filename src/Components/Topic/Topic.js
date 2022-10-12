@@ -1,17 +1,13 @@
 import React from 'react';
-import { useLoaderData } from 'react-router-dom';
+import './Topic.css';
 
-const Topic = () => {
-    const topics = useLoaderData();
+const Topic = (props) => {
+    const {name, logo, total} = props.topic;
     return (
-        <div>
-            <h1>Topic: {topics.data.length}</h1>
-            {
-                topics.data.map(topic=><div>
-                    <p>Name: {topic.name}</p>
-                </div>)
-            }
-            
+        <div className='topic'>
+            <img src={logo} alt="" height={200}/>
+            <h4>Name: {name}</h4>
+            <p>Total Quizes: {total}</p>
             
         </div>
     );
