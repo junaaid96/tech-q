@@ -1,14 +1,10 @@
-.header{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px;
-    border: 1px solid black;
-    box-shadow: 2px 2px 5px;
+.navbar {
+    box-shadow: 1px 1px 5px;
 }
 
-.header a {
+.nav-link a {
     text-decoration: none;
     margin-right: 20px;
     font-weight: bold;
+    color: black;
 }
