@@ -28,7 +28,14 @@ function App() {
         }
       ]
     },
-    
+    {
+      path: "*",
+      element: <div>
+        <h1>404</h1>
+        <h1>Not Found</h1>
+        <h4>Apnar Bhul Hoyeche, Khoma Koira Dilam!</h4>
+      </div>
+    },
   ]);
 
   return (
