@@ -1,5 +1,5 @@
 # Title: Kichu-Proshno
-* Loaded all Quiz Data from API.
+* Loaded All Quiz Data from API.
 * Dynamic Routes Implemented.
 * Statistics on Total Questions Provided. 
 * Made Responsive for Mobile and Tablet.
