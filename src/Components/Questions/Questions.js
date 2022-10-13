@@ -7,7 +7,7 @@ const Questions = () => {
     // const {}
     return (
         <div>
-            <h1>Total Questions: {questions.data.questions.length}</h1>
+            <h2 className='mb-5'>Total Questions: {questions.data.questions.length}</h2>
             {
                 questions.data.questions.map(question => <Question key={question.id} perQuestion={question}></Question>)
             }

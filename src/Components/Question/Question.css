@@ -1,0 +1,5 @@
+.question {
+    border: 2px black solid;
+    background-color: rgba(250, 235, 215, 0.453);
+    border-radius: 20px;
+}
