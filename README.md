@@ -1,3 +1,12 @@
+# Title: Kichu-Proshno
+* Loaded all Quiz Data from API.
+* Dynamic Routes Implemented.
+* Statistics on Total Questions Provided. 
+* Made Responsive for Mobile and Tablet.
+
+# Live Website
+https://kichu-proshno.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
