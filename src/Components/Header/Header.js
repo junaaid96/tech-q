@@ -17,7 +17,7 @@ const Header = () => {
                         className="d-inline-block align-top me-2"
                         alt="logo"
                     />
-                    Kichu-Proshno</Navbar.Brand>
+                    TechQ</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="m-auto nav-link">
