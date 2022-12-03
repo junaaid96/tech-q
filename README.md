@@ -1,11 +1,11 @@
-# Title: Kichu-Proshno
+# Title: TechQ
 * Loaded All Quiz Data from API.
 * Dynamic Routes Implemented.
 * Statistics on Total Questions Provided. 
 * Made Responsive for Mobile and Tablet.
 
 # Live Website
-https://kichu-proshno.netlify.app/
+https://techq.netlify.app/
 
 # Getting Started with Create React App
 
